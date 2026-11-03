@@ -3,7 +3,7 @@
 Every repo in the org and its open issues as [Mindstr](https://mindstr.org) maps,
 generated from the repos' READMEs and GitHub issues.
 
-**Open the org map:** https://mindstr.org/?uri=https://javascriptsolidserver.github.io/mindstr/index.jsonld
+**Open the org map:** https://mindstr.org/?uri=https://jss.live/mindstr/index.jsonld
 
 | File | What it is |
 | --- | --- |
