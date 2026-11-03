@@ -1,5 +1,7 @@
 # JavaScriptSolidServer mind maps
 
+[![Mind map](https://mindstr.org/badge.svg)](https://mindstr.org/?uri=https://jss.live/mindstr/index.jsonld)
+
 Every repo in the org and its open issues as [Mindstr](https://mindstr.org) maps,
 generated from the repos' READMEs and GitHub issues.
 
